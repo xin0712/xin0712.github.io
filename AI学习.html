@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<!--写一个学习笔记网站，导航栏包括AI教程、我的宠物、实践感悟、about me 四个部分，每个部分都有自己的子页面，用侧边栏的方式展示,这是关于AI教程的子页面-->
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>学习笔记</title>
+    <style>
+        body{
+            background-color: #f7f8fa;
+        }
+        .header{
+            background-color: #f7f8fa;
+            height: 70px;
+            width: 100%;
+            position: fixed;
+            top: 0;
+            left: 0;
+            z-index: 100;
+            font-size: large;
+            font-weight: bold;
+            font-family: 'Courier New', Courier, monospace;
+            font-style: normal;
+            color: #000000;
+            border:1px solid #e5cfcf;
+            
+        }
+        
+        .header .he{
+            width: 20%;
+            height: 70px;
+            float: left;
+            margin: 0;
+            padding: 10px 0 10px 0; 
+        }
+        .header .he li{
+            list-style: none;
+            float: left;
+            margin: 0;
+            padding: 10px;
+            
+        }
+        .header li a{
+            text-decoration: none;
+            color: #000000;
+        }
+        .header .ha{
+            width: 70%;
+            height: 100%;
+            margin: 0;
+            padding: 20px;
+            float: right;  
+            
+        }
+
+        
+        .header .ha .me{
+            float:right;
+            list-style-type: none;
+            margin: 0px 30px 0px 30px;
+            
+        }
+        .header .ha .shi{
+            float:right;
+            list-style-type: none;
+            margin: 0px 30px 0px 30px;
+            
+        }
+        .header .ha .wo{
+            float: right;
+            list-style-type: none;
+            margin: 0px 30px 0px 30px;
+            
+        }
+        .header .ha .ai{
+            float: right;
+            list-style-type: none;
+            margin: 0px 30px 0px 30px;
+            
+        }
+        .content{
+            width: 15%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            position: fixed;
+            top: 70px;
+            left: 0;
+            border-right:1px solid #e5cfcf;
+        }
+        .content p{
+            margin: 0;
+            padding: 10px;
+            
+            text-align: left;
+            font-size: normal;
+            font-weight: bold;
+            font-family: 'Courier New', Courier, monospace;
+            font-style: normal;
+            color: #000000;
+        } 
+         
+    </style>
+</head>
+<body>
+    <div class="header">        
+            <ul class="he">
+                <li><a href="index.html">welcome to learning</a></li>
+            </ul>                  
+            <ul class="ha">
+                <li class="me"><a href="关于我.html">关于我</a></li>      
+                <li class="shi"><a href="记录成长.html">记录成长</a></li>
+                <li class="wo"><a href="我的宠物.html">我的宠物</a></li>
+                <li class="ai"><a href="AI学习.html">AI学习</a></li>
+            </ul>    
+    </div>
+    <div class="content">
+            <p>入门必看</p>
+            <p>高级技巧</p>
+            <p>最新动态</p>
+            <p>我的实践</p>           
+    </div>   
+</body>
+</html>
