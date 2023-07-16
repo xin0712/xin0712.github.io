@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xin0712.github.io</id>
+    <title>Xin&apos;s Notes</title>
+    <updated>2023-07-16T14:39:10.669Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xin0712.github.io"/>
+    <link rel="self" href="https://xin0712.github.io/atom.xml"/>
+    <subtitle>生在有趣的时代，做有趣的事情</subtitle>
+    <logo>https://xin0712.github.io/images/avatar.png</logo>
+    <icon>https://xin0712.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Xin&apos;s Notes</rights>
+    <entry>
+        <title type="html"><![CDATA[写这个博客的意义]]></title>
+        <id>https://xin0712.github.io/post/xie-zhe-ge-bo-ke-de-yi-yi/</id>
+        <link href="https://xin0712.github.io/post/xie-zhe-ge-bo-ke-de-yi-yi/">
+        </link>
+        <updated>2023-07-16T12:56:29.000Z</updated>
+        <content type="html"><![CDATA[<p>今年3月份，震惊于GPT-4模型的强大，开始利用它疯狂学习，其中一项任务：让ChatGPT协助我学习python和前端（html、css和bootstrap），完成一个网站的搭建。</p>
+<p>一个月之后，任务圆满完成🎉。一个产品终于实现了“开发梦”，当时超级激动。</p>
+<p>我要学python这件事，被拖了N年，原因是debug太讨厌，而我的耐心比普通人会少一些😂。有了ChatGPT的神助攻，以前卡我半天的问题，可在几分钟内被解决。学代码这件事自然就变得容易了。</p>
+<p>在那之后，我开始对于“AI和学习的关系”有了更大的兴趣。</p>
+<p>事实上，几乎每个脑力劳动者都需要学习。搜索引擎让人类的学习资源达到了质变，而通用人工智能让人类的学习效率达到质变。</p>
+<p>学习的过程：输入-消化-输出。大多数人，只做到了第一步，就以为自己完成了这个过程。在此之前的我也不例外。其实不然。</p>
+<p>我很喜欢读书，每一年微信读书都有新的“战绩”，但我也很擅长遗忘。大概是，只输入了，并没再进行批判性思考（critical thinking），从而转化为自己的知识分享出去。</p>
+<p>所以，我想在这个通用人工智能发生质变的时代，用记录和分享的方式，重新定义学习，也重新完成一些领域的学习。用自己做实验，跑出最佳实践，BTW 分享成果给大家。</p>
+<p>One more thing, 除了分享学习经验，也会分享一些优质的工具。我想，在这个时代一定会出现很多aha 的tools 😁。</p>
+]]></content>
+    </entry>
+</feed>
