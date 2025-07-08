@@ -1,7 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://xin0712.github.io/posts/helloworld/</loc><lastmod>2025-07-08T21:09:04+08:00</lastmod></url><url>
-    <loc>https://xin0712.github.io/posts/</loc><lastmod>2025-07-08T21:09:04+08:00</lastmod></url><url>
-    <loc>https://xin0712.github.io/</loc><lastmod>2025-07-08T21:09:04+08:00</lastmod></url><url>
-    <loc>https://xin0712.github.io/categories/</loc></url><url>
-    <loc>https://xin0712.github.io/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://xin0712.github.io/posts/my-second-post/</loc>
+    <lastmod>2025-07-08T23:24:18+08:00</lastmod>
+  </url><url>
+    <loc>https://xin0712.github.io/posts/</loc>
+    <lastmod>2025-07-08T23:24:18+08:00</lastmod>
+  </url><url>
+    <loc>https://xin0712.github.io/</loc>
+    <lastmod>2025-07-08T23:24:18+08:00</lastmod>
+  </url><url>
+    <loc>https://xin0712.github.io/tags/ai/</loc>
+    <lastmod>2025-07-08T21:09:04+08:00</lastmod>
+  </url><url>
+    <loc>https://xin0712.github.io/posts/helloworld/</loc>
+    <lastmod>2025-07-08T21:09:04+08:00</lastmod>
+  </url><url>
+    <loc>https://xin0712.github.io/tags/</loc>
+    <lastmod>2025-07-08T21:09:04+08:00</lastmod>
+  </url><url>
+    <loc>https://xin0712.github.io/tags/%E5%89%AF%E4%B8%9A/</loc>
+    <lastmod>2025-07-08T21:09:04+08:00</lastmod>
+  </url><url>
+    <loc>https://xin0712.github.io/categories/</loc>
+  </url>
+</urlset>

@@ -1,25 +1,12 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on 我的博客</title>
     <link>https://xin0712.github.io/categories/</link>
     <description>Recent content in Categories on 我的博客</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
     <copyright>©2020 my name.</copyright>
-    
-        <atom:link href="https://xin0712.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Helloworld</title>
-      <link>https://xin0712.github.io/posts/helloworld/</link>
-      <pubDate>Tue, 08 Jul 2025 21:09:04 +0800</pubDate>
-      
-      <guid>https://xin0712.github.io/posts/helloworld/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;nihao&lt;/p&gt;&lt;/blockquote&gt;
-</description>
-    </item>
-    
+    <atom:link href="https://xin0712.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
